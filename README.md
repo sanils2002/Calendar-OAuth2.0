@@ -6,7 +6,7 @@ You need to use the OAuth2 mechanism to get users calendar access. Below are det
 For run this project on a local machine: 
 
 ```sh
-pip install - r requriments.txt
+pip install - r requirements.txt
 ```
 
 - Endpoint:
